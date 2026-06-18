@@ -5,8 +5,8 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon: bat silhouette -->
-<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<!-- favicon -->
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon.png"/>
 <meta name="theme-color" content="#141414"/>
 
 <!-- Custom: avatar + masthead tweaks -->
@@ -42,6 +42,8 @@
   .sidebar .author__bio, .author__bio { font-size: 1em; line-height: 1.5; }
   /* Offset anchor jumps so headings aren't hidden under the fixed masthead */
   :target { scroll-margin-top: 90px; }
+  /* Remove the footer (copyright line) entirely */
+  .page__footer { display: none; }
   /* Shift the main content column (About me) right. Susy already gives .page a
      built-in padding-left of ~4.24%, so we must exceed it — and only at the
      desktop breakpoint, so mobile (full-width .page) is untouched. */
