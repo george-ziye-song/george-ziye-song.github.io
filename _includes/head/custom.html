@@ -1,0 +1,60 @@
+{% include base_path %}
+
+<!-- start custom head snippets -->
+
+<!-- Support for Academicons -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
+<link rel="icon" href="/images/favicon.ico"/>
+<meta name="theme-color" content="#ffffff"/>
+
+<!-- Custom: avatar + masthead tweaks -->
+<style>
+  /* Rectangular avatar filling the sidebar width, cropped ~1/8 off the top */
+  .sidebar .author__avatar,
+  .author__avatar { width: 100%; }
+  .sidebar .author__avatar img,
+  .author__avatar img {
+    width: 100% !important;
+    max-width: 100% !important;
+    aspect-ratio: 12 / 7 !important;
+    object-fit: cover !important;
+    object-position: center bottom !important;
+    height: auto !important;
+    border-radius: 8px !important;
+  }
+  /* Masthead: site title on the left, nav links + theme toggle pushed right */
+  .greedy-nav { display: flex; align-items: center; }
+  .greedy-nav .masthead__title-link {
+    font-weight: 700; font-size: 1.05em; white-space: nowrap;
+    color: var(--global-text-color);
+  }
+  .greedy-nav .visible-links { margin-left: auto; }
+  /* Align the nav's right edge (theme toggle) with the main content's right edge.
+     Susy gives .page a padding-right of 16.9491525424%; matching it on the nav
+     lines the sun up with the right edge of the body text. Desktop only. */
+  @media (min-width: 57.8125em) {
+    .greedy-nav { padding-right: 16.9491525424%; }
+  }
+  /* Sidebar: make the name the prominent (larger) line; bio smaller than it */
+  .sidebar .author__name { font-size: 1.5em; }
+  .sidebar .author__bio, .author__bio { font-size: 1em; line-height: 1.5; }
+  /* Offset anchor jumps so headings aren't hidden under the fixed masthead */
+  :target { scroll-margin-top: 90px; }
+  /* Shift the main content column (About me) right. Susy already gives .page a
+     built-in padding-left of ~4.24%, so we must exceed it — and only at the
+     desktop breakpoint, so mobile (full-width .page) is untouched. */
+  @media (min-width: 57.8125em) {
+    .page { padding-left: 11%; }
+  }
+  /* More vertical breathing room between home page sections */
+  .page__content h1 { margin-top: 2.4em; margin-bottom: 0.5em; }
+</style>
+
+<!-- end custom head snippets -->
