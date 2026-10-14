@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master of Artificial Intelligence student at Nanyang Technological University, supervised by [Prof. Guosheng Lin](https://guosheng.github.io/). Previously, I received my Bachelor's degree from Southern University of Science and Technology (SUSTech).
+I am a first-year Ph.D. student at Adelaide University, Australia, under the supervision of [Prof. Xin Yu](https://xinyu-au.github.io). My research interests include computer vision, recursive self-improvement (RSI), and self-evolving agents.
+
+Previously, I received my M.Sc. in Artificial Intelligence from Nanyang Technological University (NTU), Singapore, and my B.Sc. in Data Science from the Southern University of Science and Technology (SUSTech), China.
 
 News
 ======
 <div style="max-height:170px;overflow-y:auto;padding-right:0.5rem;margin:0.6rem 0;">
-<p style="margin:0.55rem 0;">Oct 2025 — Our paper "In-Context Learning with Unpaired Clips for Instruction-based Video Editing" is released on arXiv.</p>
-<p style="margin:0.55rem 0;">Aug 2025 — Started my M.Sc. in AI at NTU and joined A*STAR CFAR.</p>
+<p style="margin:0.55rem 0;">Nov 2026 — Started my Ph.D. at Adelaide University and joined CSIRO.</p>
+<p style="margin:0.55rem 0;">Oct 2026 — Our paper "In-Context Learning with Unpaired Clips for Instruction-based Video Editing" was released on arXiv.</p>
+<p style="margin:0.55rem 0;">Jun 2026 — Joined Shanghai Jiao Tong University as a Research Assistant.</p>
+<p style="margin:0.55rem 0;">Aug 2025 — Started my M.Sc. in AI at Nanyang Technological University and joined A*STAR CFAR as a Research Intern.</p>
 <p style="margin:0.55rem 0;">Jun 2025 — Received my B.Sc. in Data Science from SUSTech.</p>
 <p style="margin:0.55rem 0;">Jul 2024 — Special Mention Prize at the NUS School of Computing Summer Workshop.</p>
 </div>
@@ -21,7 +25,7 @@ News
 Experience
 ======
 <div style="display:flex;flex-direction:column;gap:1.4rem;margin:0.6rem 0;">
-<div style="display:flex;gap:1.2rem;align-items:center;"><div style="width:230px;flex-shrink:0;display:flex;justify-content:center;"><img src="/assets/sjtu-logo.png" alt="SJTU" style="max-width:210px;max-height:130px;object-fit:contain;" /></div><div>Shanghai Jiao Tong University<br/>Research Assistant<br/>May 2026 – Sep 2026</div></div>
+<div style="display:flex;gap:1.2rem;align-items:center;"><div style="width:230px;flex-shrink:0;display:flex;justify-content:center;"><img src="/assets/sjtu-logo.png" alt="SJTU" style="max-width:210px;max-height:130px;object-fit:contain;" /></div><div>Shanghai Jiao Tong University<br/>Research Assistant<br/>June 2026 – Sep 2026</div></div>
 <div style="display:flex;gap:1.2rem;align-items:center;"><div style="width:230px;flex-shrink:0;display:flex;justify-content:center;"><img src="/assets/astar-logo.png" alt="A*STAR" style="max-width:210px;max-height:130px;object-fit:contain;" /></div><div>A*STAR, Centre for Frontier AI Research (CFAR)<br/>Research Intern<br/>Aug 2025 – May 2026</div></div>
 </div>
 
