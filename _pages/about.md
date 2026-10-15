@@ -14,12 +14,12 @@ Previously, I received my M.Sc. in Artificial Intelligence from Nanyang Technolo
 News
 ======
 <div style="max-height:170px;overflow-y:auto;padding-right:0.5rem;margin:0.6rem 0;">
-<p style="margin:0.55rem 0;">Nov 2026 — Started my Ph.D. at Adelaide University and joined CSIRO.</p>
-<p style="margin:0.55rem 0;">Oct 2026 — Our paper "In-Context Learning with Unpaired Clips for Instruction-based Video Editing" was released on arXiv.</p>
-<p style="margin:0.55rem 0;">Jun 2026 — Joined Shanghai Jiao Tong University as a Research Assistant.</p>
-<p style="margin:0.55rem 0;">Aug 2025 — Started my M.Sc. in AI at Nanyang Technological University and joined A*STAR CFAR as a Research Intern.</p>
-<p style="margin:0.55rem 0;">Jun 2025 — Received my B.Sc. in Data Science from SUSTech.</p>
-<p style="margin:0.55rem 0;">Jul 2024 — Special Mention Prize at the NUS School of Computing Summer Workshop.</p>
+<p style="margin:0.55rem 0;"><strong>[2026-11]</strong> Started my Ph.D. at Adelaide University and joined CSIRO.</p>
+<p style="margin:0.55rem 0;"><strong>[2026-10]</strong> Our paper "In-Context Learning with Unpaired Clips for Instruction-based Video Editing" was released on arXiv.</p>
+<p style="margin:0.55rem 0;"><strong>[2026-06]</strong> Joined Shanghai Jiao Tong University as a Research Assistant.</p>
+<p style="margin:0.55rem 0;"><strong>[2025-08]</strong> Started my M.Sc. in AI at Nanyang Technological University and joined A*STAR CFAR as a Research Intern.</p>
+<p style="margin:0.55rem 0;"><strong>[2025-06]</strong> Received my B.Sc. in Data Science from SUSTech.</p>
+<p style="margin:0.55rem 0;"><strong>[2024-07]</strong> Received the Special Mention Prize at the NUS School of Computing Summer Workshop.</p>
 </div>
 
 Experience
