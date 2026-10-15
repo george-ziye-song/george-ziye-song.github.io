@@ -11,11 +11,19 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Artificial Intelligence, Nanyang Technological University, 2026 (expected)
-* B.Sc. in Data Science, Southern University of Science and Technology, 2025
+* Ph.D. student, College of Engineering and Information Technology, Adelaide University, Australia, 2026 – present
+  * Supervisor: Prof. Xin Yu
+  * Supported by a CSIRO Ph.D. scholarship
+* M.Sc. in Artificial Intelligence, Nanyang Technological University, Singapore, 2026
+* B.Sc. in Data Science, Southern University of Science and Technology, China, 2025
 
 Experience
 ======
+* Jun 2026 – Sep 2026: Research Assistant
+  * Shanghai Jiao Tong University
+  * Research focus: Recursive self-improvement (RSI)
+  * Supervisor: [Prof. Jiangchao Yao](https://sunarker.github.io)
+
 * Aug 2025 – May 2026: Research Intern
   * A\*STAR, Centre for Frontier AI Research (CFAR)
   * AI4Science: Transformer-based PDE solvers and physics-informed neural networks
@@ -39,5 +47,6 @@ Publications
 
 Honors and Awards
 ======
+* CSIRO Ph.D. Scholarship, 2026
 * Special Mention Prize, NUS School of Computing Summer Workshop, 2024
 * Finalist, Mathematical Contest in Modeling (MCM), 2024
